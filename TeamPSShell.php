@@ -1,4 +1,5 @@
 <?php
+//Kryptik is gay
 //TeamPS Shell
 //By Plum & KrypTiK
 error_reporting(0);
